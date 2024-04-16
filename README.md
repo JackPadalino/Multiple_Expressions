@@ -2,6 +2,8 @@
 
 Mixcloud/SoundCloud like application for live streaming and showcasing DJ sets.
 
+![image](https://github.com/JackPadalino/Multiple_Expressions_frontend/assets/97137486/c4b122d8-0744-41d7-8dfd-d398ebbc61bb)
+
 ## Project description
 
 This project was created out of the desire to move away from subscription-based live streaming and music repository services like SoundCloud, Mixcloud, Instagram, and TikTok.
@@ -19,12 +21,17 @@ a platform's policies.
 Frontend -
 
 - React
+- React-Player
+- TypeScript
+- Vite
+- AWS IVS
+- AWS Chat
 - React Router
 - Redux
-- Wavesurfer.js
 - Axios
 - Framer Motion
-- MUI Components
+- MUI
+- Wavesurfer.js
 
 Backend -
 

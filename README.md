@@ -8,6 +8,12 @@ This project was created out of the desire to move away from subscription-based 
 DJ's often want to post and live stream their sets, but have to worry about platforms policing music copyrights, ending streams early, or taking their sets down. Sites like Mixcloud offer DJ's the ability to stream without the worry of copyright, but for a monthly fee. This project was developed out of a personal desire to post and play whatever we like, without having to adhere to
 a platform's policies.
 
+## Links
+
+- [Deployed site](https://multiple-expressions.onrender.com/)
+- [Backend repository](https://github.com/JackPadalino/Multiple_Expressions_backend)
+- [Frontend repository](https://github.com/JackPadalino/Multiple_Expressions_frontend)
+
 ## Created With
 
 Frontend -
@@ -27,12 +33,6 @@ Backend -
 - Django Storages
 - AWS S3 Buckets
 - AWS Interactive Streaming Services
-
-## Links
-
-- [Deployed site](https://multiple-expressions.onrender.com/)
-- [Backend repository](https://github.com/JackPadalino/Multiple_Expressions_backend)
-- [Frontend repository](https://github.com/JackPadalino/Multiple_Expressions_frontend)
 
 ## Deployments
 

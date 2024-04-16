@@ -2,10 +2,6 @@
 
 Mixcloud/SoundCloud like application for live streaming and showcasing DJ sets.
 
-![image](https://github.com/JackPadalino/Multiple_Expressions_frontend/assets/97137486/6c6636e6-77ec-49bd-b216-18f6db4dadf1)
-
-![image](https://github.com/JackPadalino/Multiple_Expressions_frontend/assets/97137486/a24c6722-ab20-47b8-887f-4fe7613175ff)
-
 ## Project description
 
 This project was created out of the desire to move away from subscription-based live streaming and music repository services like SoundCloud, Mixcloud, Instagram, and TikTok.

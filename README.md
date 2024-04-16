@@ -51,14 +51,8 @@ Backend -
 
 Frontend -
 
-- Use all MUI components for divs and containers
-- Update fonts
-- Update styling of chat feature
 - Continue to add pictures, videos, tracks from various artists
-- Add landing page with most recently updated track
 - 'Report an issue' form
-- Pagination for Auditory component
-- Render actual waveforms for tracks - Rendering randomly generated waveforms for now
 - 'Meet the Crew' page
 - Resolve scrolling issue with live stream chat
 

@@ -1,6 +1,0 @@
-[submodule "Multiple_Expressions_backend"]
-	path = Multiple_Expressions_backend
-	url = https://github.com/JackPadalino/Multiple_Expressions_backend.git
-[submodule "Multiple_Expressions_frontend"]
-	path = Multiple_Expressions_frontend
-	url = https://github.com/JackPadalino/Multiple_Expressions_frontend.git
